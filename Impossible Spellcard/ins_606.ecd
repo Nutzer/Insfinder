@@ -1,0 +1,3 @@
+ins_606(Nr, Stack, after)
+
+Changes, how much bullets at the same time will be spawned (Stack for circles, after for bulets with different speed)

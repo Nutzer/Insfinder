@@ -1,0 +1,8 @@
+compares the 2 last called variables
+
+for example:
+
+3.0f;
+2.0f;
+ins_51();
+ins_10();

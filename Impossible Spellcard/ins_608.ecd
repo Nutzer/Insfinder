@@ -1,0 +1,10 @@
+ins_608(Nr, Xf, Yf)
+
+Changes point of Bullet spawn (0f, 0f is the enemy)
+
+
+
+
+
+
+(Variables with f are floats. you have to write a f after the Number (1.1231f), or a % before Variables (%A) 

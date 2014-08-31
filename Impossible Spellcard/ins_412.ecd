@@ -1,0 +1,10 @@
+ins_412(Time, ?, area_f)
+
+Object moves random in a specific area
+
+
+
+
+
+
+(Variables with f are floats. you have to write a f after the Number (1.1231f), or a % before Variables (%A) 

@@ -1,0 +1,40 @@
+ins_602(NR, BulletNR, color)
+
+Changes buletsprite and color
+(color could be:
+1: little ball
+2: little star
+3: water drops (little oval bullets)
+4: Norma Ball
+5: 4
+6: 5 with other outline (touhou 7 ver)
+7: 6
+8: 3 in bigger
+9: Kunai
+10: Diamond klein
+11 Cards/Ofudas
+12: Arrow-Head
+13: Bullet-Bullets(Th8 Ver)
+14: ??? Bullets (Sprite Shead nr11);
+15 Eirin-Bullets (Oval, Black with outline)
+16: Rotating stars
+17: Money
+18: Big Ball
+19: 18
+20: Bean Bullet
+21: Knives
+22: Butterfly
+23: Big Star
+24, 25, 26, 27: Fire: Red, purple, blue, yellow
+28: Heart
+29: Bullet changing size
+30: Bubble
+31: Light Bullets
+32: Water drops (th12 ver)
+33: Rotating water drops (Nitori Ver)
+34: Rotating diamonds
+35: Rotating Stars
+36: Laser (as Bullet)
+37 35 36 37: Notes: Red, purple, blue, yellow
+38: Pause(notes) red
+)

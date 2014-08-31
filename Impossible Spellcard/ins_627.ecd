@@ -1,0 +1,8 @@
+ins_627(Nr, Umkreisf)
+
+Changes in which area around the Boss the Bullets will be spawned
+
+WARNING: to use this function, some changes in ins_611 are needed...
+
+
+(Variables with f are floats. you have to write a f after the Number (1.1231f), or a % before Variables (%A) 

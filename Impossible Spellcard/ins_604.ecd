@@ -1,0 +1,10 @@
+ins_604(Nr, Directionf, directionchangef)
+
+Changes the direction and shift from Bullets (in a circle)
+
+
+
+
+
+
+(Variables with f are floats. you have to write a f after the Number (1.1231f), or a % before Variables (%A) 

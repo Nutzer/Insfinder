@@ -1,0 +1,5 @@
+ins_514(?, ?, time, "Functionname)
+
+Sets the function that is called if the enemy dies
+
+( ins_521 is called if the time is over)

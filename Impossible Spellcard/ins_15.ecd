@@ -1,0 +1,4 @@
+ins_15("functionname", (arguments f.e. _SS 1))
+
+Starts function in Background
+(function runs Parralel to the actual function)

@@ -1,0 +1,4 @@
+ins_11("functionname", (arguments z.b. _SS 1))
+
+starts function in foreground
+(Waits until it ends before continuing)

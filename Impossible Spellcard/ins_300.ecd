@@ -1,0 +1,3 @@
+Starts Break Function
+
+ins_300("Ecl_EtBreak2", 0.0f, 0.0f, 9999, 0, 0);

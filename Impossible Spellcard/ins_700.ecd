@@ -1,0 +1,10 @@
+ins_700(NR, widef, lenghtf, bigf, bigf)
+
+Creates Laser.
+
+
+
+
+
+
+(Variables with f are floats. you have to write a f after the Number (1.1231f), or a % before Variables (%A) 

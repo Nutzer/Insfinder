@@ -1,0 +1,10 @@
+ins_400(Xf, Yf)
+
+Object jumpes to a fixed position
+
+
+
+
+
+
+(Variables with f are floats. you have to write a f after the Number (1.1231f), or a % before Variables (%A) 

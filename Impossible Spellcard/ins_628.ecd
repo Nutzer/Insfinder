@@ -1,0 +1,9 @@
+ins_628(NR, areaXf, areaYf)
+
+Selects a random are in which Bullets are spawned
+
+
+
+
+
+(Variables with f are floats. you have to write a f after the Number (1.1231f), or a % before Variables (%A) 
