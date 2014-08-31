@@ -1,0 +1,13 @@
+Sub Function:
+Starts with an Call.
+Takes Arguments.
+
+sub sub1()
+{
+
+}
+
+sub sub2(A B C)
+{
+
+}
